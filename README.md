@@ -2,19 +2,37 @@
 A straight forward and generalized code challenge to showcase the skills of candidates applying for the position of Full Stack Engineer
 
 # Rules
-So you want to be a Pear Deck dev, do you? Well you must pass this tech
-challenge first! Do it in Javascript/React/Node and git (your work is shown
-thorugh your commit history). You've got **a week** to work on it (though please
-try to keep under the total working time to the ~3 hour mark). Once you've
-submitted your code to us thorough a PR on github OR a zipfile, our team will
-review your work and get back to you. Should you pass and move onto an
-interview with our devs, in which we'll be doing a code review session with
-you, so be prepared to help explain/teach your work!
-## What we're grading on:
-  * First and foremost, your ability to develop a working thing (in javascript)
-  * Your coding best practices and the readability of your code
-    * Source control is IMPORTANT (please use git)
-  * Not necessarily grading, but we're going to be paying attention to how you decide to solve the challenge, so have it reflect your strengths
+
+At Pear Deck our Development team values the ability to: think through a project methodically, solve problems creatively, balance simplicity with innovation, write clear code that is easy to read and understand, follow sustainable standards and accepted best practices, make well reasoned decisions, and learn and grown through your work.
+
+We've developed this code challenge to allow you, as a candidate, to showcase these abilities through executing a standard piece of work that touches on all the core competencies of a Full Stack Engineer.
+
+### Logistics
+  * Please read the exercise in full before planning and beginning your work
+  * You are welcome to reach out to ask any questions, gain clarification or gather requirements at any time
+
+### Execution
+  * We ask that you execute the challenge in Javascript, React, Node and git as it most closely reflects the work you will do at Pear Deck
+  * Your work methodology is shown through your commit history, so please consider this in your work
+  * Comments and documentation to mark your decisions, explain your solutions and show your reasoning are exepcted 
+
+### Timing
+  * You will have one week, from the time you receive the challenge, to complete and return your work 
+  * We ask that you try to spend 3 hours or less on your solution within that week
+
+### Delivery
+  * Please return your solution as a zipfile or tarball of your git repo according to the instructions of the recruiter
+
+### Review
+  * After you deliver your work, one of our Developers will review your work
+  * Should you pass and move onto team interviews with our Development Team there will likely be questions or discussions relating to this work, so please be prepared to help explain/teach your work!
+
+# How this challenge will be judged
+  * First and foremost, your ability to develop a working solution using the tech stack specified in the rules
+  * Your execution of coding best practices and the readability of your code
+  * Source control and work methodology is *important* so please use git, use meaningful commit messages and organize your work accordingly
+  * There is not one *correct* solution and so your solution will be unique.  We will be paying attention to how you decide to solve the challenge, so please ensure that it reflect your strengths
+  * Explaining your thinking, decision points and solution are critical. Comments and documentation will be reviewed and should provide context and clarity around your completed code.
 
 # The Task
 With the recent events of COVID-19, virtual schooling has exploded. We need a
