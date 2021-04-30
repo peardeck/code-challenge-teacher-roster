@@ -69,7 +69,7 @@ If you want to convert this to use TypeScript, following [this tutorial](https:/
   1. cd into `/client/my-teacher-dashboard` and run ```npm install``` to install the required packages to run the client-side code
   2. Check the package.json for more script info, but run ```npm run dev``` to get a local instance running on port *3000*
 ### Server-side
-  * There is no working server side code, but client-side code does proxy to it (to port *3001*) if you want to try it out
+  There is no working server side code, but client-side code does proxy to it (to port *3001*) if you want to try it out
   1. cd to the root of the project and run ```npm install``` here to get the packages necessary for the server cruft already there
   2. Check the package.json here for more info on the script, but make sure that the port is `3001` and ```npm run start```
 
