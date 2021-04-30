@@ -65,26 +65,19 @@ If you want to convert this to use TypeScript, following [this tutorial](https:/
     - Tip: It's highly recommended that you install and use `nvm` to manage/install your node versions
     - If you have nvm, type ```nvm use``` in terminal once you're in the root of this project
 
-  - Client-side
-    1. cd into `/client/my-teacher-dashboard` and run ```npm install``` to install the required packages to run the client-side code
-    2. Check the package.json for more script info, but run ```npm run dev``` to get a local instance running on port *3000*
-  - Server-side
-    - There is no working server side stuff, but client-side stuff does proxy to it (to port *3001*) if you want to try it out
-    1. cd to the root of the project and run ```npm install``` here to get the packages necessary for the server cruft already there
-    2. Check the package.json here for more info on the script stuff, but make sure that the port is `3001` and ```npm run start```
+### Client-side
+  1. cd into `/client/my-teacher-dashboard` and run ```npm install``` to install the required packages to run the client-side code
+  2. Check the package.json for more script info, but run ```npm run dev``` to get a local instance running on port *3000*
+### Server-side
+  * There is no working server side code, but client-side code does proxy to it (to port *3001*) if you want to try it out
+  1. cd to the root of the project and run ```npm install``` here to get the packages necessary for the server cruft already there
+  2. Check the package.json here for more info on the script, but make sure that the port is `3001` and ```npm run start```
 
 # Submitting your solution
-  * TODO
+  * We ask that you deliver your code solution by returning a code complete zipfile or tarball of your local git repository
+  * The recruiter working with you during the interview process will provide you instructions for delivery of this file
 
-
-# TODO for this README:
-  * figure out how we want them to submit this? Their choice
-    * github pr
-    * github fork then share (how to private)
-      * tarball of gitrepo and colleen can upload it to lever
-    * gdrive folder share?
+# TODO:
   * inmemory instance of mongo instead?
     * mongodb-memory-server (npm package)
   * setup easy bulk import of datasets (via csv)
-  * do this code challenge on someone elses machine (to enduse setup is not impossible)
-  * add a how to submit section
