@@ -39,7 +39,9 @@ With the recent events of COVID-19, virtual schooling has exploded. We need a
 classroom roster, like Google Classroom, to help our teachers with their job.
 Here's a link to a more complicated roster example to pull inspiration from: [Google Classroom](https://help.activelylearn.com/hc/en-us/articles/115000568233-Roster-students-with-Google-Classroom#:~:text=Select%20a%20class%20and%20under,will%20be%20highlighted%20in%20red)
 
-We expect at least the *Core Functionality* to be implemented, though *Secondary Fuctionality* should be attempted. *Bonuses* are for bonus points.
+* We expect at least the *Core Functionality* to be fully implemented in your completed solution
+* We expect that the *Secondary Fuctionality* should be attempted, though you may not have time to complete it successfully within the time cap
+* If you do successfully complete all prior functionality, you are welcome to attempt the *Bonuses* to further showcase your skill
 
 Your task is to:
   * Create a responsive, virtual classroom roster for teachers to help manage their virtual classes
