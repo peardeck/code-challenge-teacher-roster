@@ -1,5 +1,5 @@
 # code-challenge-teacher-roster
-A challenge for hopeful full stack devs to take home and test their skills
+A straight forward and generalized code challenge to showcase the skills of candidates applying for the position of Full Stack Engineer
 
 # Rules
 So you want to be a Pear Deck dev, do you? Well you must pass this tech
