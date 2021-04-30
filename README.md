@@ -12,7 +12,7 @@ We've developed this code challenge to allow you, as a candidate, to showcase th
   * You are welcome to reach out to ask any questions, gain clarification or gather requirements at any time
 
 ### Execution
-  * We ask that you execute the challenge in Javascript, React, Node and git as it most closely reflects the work you will do at Pear Deck
+  * We ask that you execute the challenge in `JavaScript/TypeScript`, `React`, `Node` and `git` as it most closely reflects the work you will do at Pear Deck
   * Your work methodology is shown through your commit history, so please consider this in your work
   * Comments and documentation to mark your decisions, explain your solutions and show your reasoning are exepcted 
 
