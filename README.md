@@ -55,8 +55,8 @@ Your task is to:
     * Files are defined in their respective directories of `/client/my-teacher-dashboard/classrooms/` and `/client/my-teacher-dashboard/students/`
     * There is currently no working server-side data thing, but the beginnings of one is there if you want to mess with it (it proxies to port 3001, so set that as your server port)
 
-OPTIONAL:
-If you want to convert this to use TypeScript, follow [this tutorial](https://nextjs.org/learn/excel/typescript).
+**Optional**:
+If you want to convert this to use TypeScript, following [this tutorial](https://nextjs.org/learn/excel/typescript) may be helpful.
 
 ## Setup
   0. Ensure you have `git` installed on your computer
