@@ -61,9 +61,9 @@ If you want to convert this to use TypeScript, following [this tutorial](https:/
 ## Setup
   0. Ensure you have `git` installed on your computer
   1. Fork this gitrepo or download the zip onto your computer and `cd` into it with a terminal
-  2. Ensure you have npm (6.13.4) and node (v12.14.1) installed onto your computer
-    - Tip: It's highly recommended that you install and use `nvm` to manage/install your node versions
-    - If you have nvm, type ```nvm use``` in terminal once you're in the root of this project
+  2. Ensure you have npm (6.13.4) and node (v12.14.1) installed onto your computer  
+* Tip: It's highly recommended that you install and use `nvm` to manage/install your node versions
+* If you have nvm, type ```nvm use``` in terminal once you're in the root of this project
 
 ### Client-side
   1. cd into `/client/my-teacher-dashboard` and run ```npm install``` to install the required packages to run the client-side code
