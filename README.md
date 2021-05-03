@@ -3,7 +3,7 @@ A straight forward and generalized code challenge to showcase the skills of cand
 
 # Rules
 
-At Pear Deck our Development team values the ability to: think through a project methodically, solve problems creatively, balance simplicity with innovation, write clear code that is easy to read and understand, follow sustainable standards and accepted best practices, make well reasoned decisions, and learn and grown through your work.
+At GoGuardian our Pear Deck Development team values the ability to: think through a project methodically, solve problems creatively, balance simplicity with innovation, write clear code that is easy to read and understand, follow sustainable standards and accepted best practices, make well reasoned decisions, and learn and grown through your work.
 
 We've developed this code challenge to allow you, as a candidate, to showcase these abilities through executing a standard piece of work that touches on all the core competencies of a Full Stack Engineer.
 
@@ -12,7 +12,7 @@ We've developed this code challenge to allow you, as a candidate, to showcase th
   * You are welcome to reach out to ask any questions, gain clarification or gather requirements at any time
 
 ### Execution
-  * We ask that you execute the challenge in `JavaScript/TypeScript`, `React`, `Node` and `git` as it most closely reflects the work you will do at Pear Deck
+  * We ask that you execute the challenge in `JavaScript/TypeScript`, `React`, `Node` and `git` as it most closely reflects the work you will do on the Pear Deck team at GoGuardian
   * Your work methodology is shown through your commit history, so please consider this in your work
   * Comments and documentation to mark your decisions, explain your solutions and show your reasoning are exepcted 
 
