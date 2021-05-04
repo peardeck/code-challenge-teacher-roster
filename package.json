@@ -1,7 +1,7 @@
 {
-  "name": "coding-challenege-take-home",
+  "name": "code-challenge-teacher-roster",
   "version": "1.0.0",
-  "description": "A challenge for hopeful full stack devs to take home and test their skills",
+  "description": "A challenge for hopeful Full Stack Developers to showcase their skills",
   "main": "index.js",
   "scripts": {
     "start": "node server/index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DariaNico/CodingChallenegeTakeHome.git"
+    "url": "git+https://github.com/peardeck/code-challenge-teacher-roster/.git"
   },
   "keywords": [],
   "author": " <Daria Tan>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DariaNico/CodingChallenegeTakeHome/issues"
+    "url": "https://github.com/peardeck/code-challenge-teacher-roster/issues"
   },
-  "homepage": "https://github.com/DariaNico/CodingChallenegeTakeHome#readme",
+  "homepage": "https://github.com/peardeck/code-challenge-teacher-roster#readme",
   "devDependencies": {
     "@babel/core": "^7.13.15",
     "@babel/node": "^7.13.13",
